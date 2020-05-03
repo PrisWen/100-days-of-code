@@ -31,3 +31,22 @@ I was working in the Exercises_1
 **Today's Progress :** I finished exercise 1 bike store sales 
 
 **Thoughts :** I understand more about numpy, pandas a and matplotlib
+
+## Day 4 : Apr 30 , 2020 |  Introduction Python, rmotr.com Data Science with Python Course
+
+**Today's Progress :** Today I work with relational database and I analyse data 
+
+**Thoughts :** I am still working with exercise 2 frecodecamp
+
+## Day 5 : May 1 , 2020 |  Working wit OOP Python
+
+**Today's Progress :** I work with OOP Python and I advanced with creating classes  
+
+**Thoughts :** Exercises with POO in Pydata Course was nice
+ 	
+## Day 6 : May 2 , 2020 |  Introduction Python, rmotr.com Data Science with Python Course
+
+**Today's Progress :** I finished exercise 2 sakila relational database
+
+**Thoughts :** I understand how to work with relational databases
+ 
