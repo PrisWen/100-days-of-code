@@ -12,3 +12,22 @@ I started following various data science channels in the Python language and I w
 
 **Thoughts :** Hope this will be exciting, will help me in learning Data Science in a more effective way .
 
+## Day 1 : Apr 27 , 2020 | Introduction Pytho,n rmotr.com Data Science with Python Course
+
+**Today's Progress :** I started to learn with a video. "Data Analysis with Python - Full Course for Beginners (Numpy, Pandas, Matplotlib, Seaborn)"
+This material is created for our [Data Science with Python Course](https://rmotr.com/data-science-python-course)
+I was working in the Exercises_1
+
+**Thoughts :** I thought I would finish the whole exercise but I had a good progress
+
+## Day 2 : Apr 28 , 2020 | Working with Pyspark
+
+**Today's Progress :** I had to do my homework related with Big Data. I learned Pyspark
+
+**Thoughts :** I have worked with 5 million data. Pyspark is great
+
+## Day 3 : Apr 29 , 2020 |  Introduction Python, rmotr.com Data Science with Python Course
+
+**Today's Progress :** I finished exercise 1 bike store sales 
+
+**Thoughts :** I understand more about numpy, pandas a and matplotlib
