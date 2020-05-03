@@ -38,9 +38,9 @@ I was working in the Exercises_1
 
 **Thoughts :** I am still working with exercise 2 frecodecamp
 
-## Day 5 : May 1 , 2020 |  Working wit OOP Python
+## Day 5 : May 1 , 2020 |  Working with Object Oriented Programming with Python
 
-**Today's Progress :** I work with OOP Python and I advanced with creating classes  
+**Today's Progress :** I work with OOP Python and I advanced with class creation. This part of code is available here: [Pydata OOP Course](https://github.com/PrisWen/Pydata-POO-Course)
 
 **Thoughts :** Exercises with POO in Pydata Course was nice
  	
