@@ -12,11 +12,11 @@ I started following various data science channels in the Python language and I w
 
 **Thoughts :** Hope this will be exciting, will help me in learning Data Science in a more effective way .
 
-## Day 1 : Apr 27 , 2020 | Introduction Pytho,n rmotr.com Data Science with Python Course
+## Day 1 : Apr 27 , 2020 | Real Life Example of a Python/Pandas Data Analysis project, rmotr.com Data Science with Python Course
 
 **Today's Progress :** I started to learn with a video. "Data Analysis with Python - Full Course for Beginners (Numpy, Pandas, Matplotlib, Seaborn)"
 This material is created for our [Data Science with Python Course](https://rmotr.com/data-science-python-course)
-I was working in the Exercises_1
+I was working in the Exercises_1 of Real Life Example of a Python/Pandas Data Analysis project
 
 **Thoughts :** I thought I would finish the whole exercise but I had a good progress
 
@@ -26,17 +26,17 @@ I was working in the Exercises_1
 
 **Thoughts :** I have worked with 5 million data. Pyspark is great
 
-## Day 3 : Apr 29 , 2020 |  Introduction Python, rmotr.com Data Science with Python Course
+## Day 3 : Apr 29 , 2020 |  Real Life Example of a Python/Pandas Data Analysis project, rmotr.com Data Science with Python Course
 
-**Today's Progress :** I finished exercise 1 bike store sales 
+**Today's Progress :** I finished Exercise_1 Bike store sales 
 
-**Thoughts :** I understand more about numpy, pandas a and matplotlib
+**Thoughts :** I understand more about pandas and matplotlib
 
 ## Day 4 : Apr 30 , 2020 |  Introduction Python, rmotr.com Data Science with Python Course
 
 **Today's Progress :** Today I work with relational database and I analyse data 
 
-**Thoughts :** I am still working with exercise 2 frecodecamp
+**Thoughts :** I am still working with exercise_2 of Real Life Example of a Python/Pandas Data Analysis project
 
 ## Day 5 : May 1 , 2020 |  Working with Object Oriented Programming with Python
 
@@ -46,7 +46,12 @@ I was working in the Exercises_1
  	
 ## Day 6 : May 2 , 2020 |  Introduction Python, rmotr.com Data Science with Python Course
 
-**Today's Progress :** I finished exercise 2 sakila relational database
+**Today's Progress :** I finished exercise_2 sakila relational database
 
 **Thoughts :** I understand how to work with relational databases
- 
+
+## Day 7 : May32 , 2020 |  Jupyter Notebooks Tutorial, , rmotr.com Data Science with Python Course
+
+**Today's Progress :** Today I learned more about Jupyter Notebooks and Jupyter Lab also I learned how to use 'Notebooks.ai'
+
+**Thoughts :** Notebooks.ai is a a fully online cloud-based Data Science environment 
