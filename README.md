@@ -50,8 +50,26 @@ I was working in the Exercises_1 of Real Life Example of a Python/Pandas Data An
 
 **Thoughts :** I understand how to work with relational databases
 
-## Day 7 : May32 , 2020 |  Jupyter Notebooks Tutorial, , rmotr.com Data Science with Python Course
+## Day 7 : May 3 , 2020 |  Jupyter Notebooks Tutorial, , rmotr.com Data Science with Python Course
 
 **Today's Progress :** Today I learned more about Jupyter Notebooks and Jupyter Lab also I learned how to use 'Notebooks.ai'
 
 **Thoughts :** Notebooks.ai is a a fully online cloud-based Data Science environment 
+
+## Day 8 : May 4 , 2020 |  OpenCV
+
+**Today's Progress :** Today I learned about OpenCV
+
+**Thoughts :** This will be applied in the final project with the OOP Python course 
+
+## Day 9 : May 5 , 2020 |  OpenCV and virtualenv
+
+**Today's Progress :** Today I learned how to converting an image to gray scale with Python OpenCV and virtualenv
+
+**Thoughts :** OpenCV is so useful 
+
+## Day 10 : May 6 , 2020 |  Linear algebra in image processing
+
+**Today's Progress :** Today I remember about linear algebra and I worked with linear algebra in image processing
+
+**Thoughts :** I will apply the topic in image processing 
