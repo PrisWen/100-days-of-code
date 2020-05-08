@@ -56,13 +56,13 @@ I was working in the Exercises_1 of Real Life Example of a Python/Pandas Data An
 
 **Thoughts :** Notebooks.ai is a a fully online cloud-based Data Science environment 
 
-## Day 8 : May 4 , 2020 |  OpenCV
+## Day 8 : May 4 , 2020 |  Python OpenCV
 
 **Today's Progress :** Today I learned about OpenCV
 
-**Thoughts :** This will be applied in the final project with the OOP Python course 
+**Thoughts :** This will be applied in the final project with the OOP Python course.
 
-## Day 9 : May 5 , 2020 |  OpenCV and virtualenv
+## Day 9 : May 5 , 2020 |  Python OpenCV and virtualenv
 
 **Today's Progress :** Today I learned how to converting an image to gray scale with Python OpenCV and virtualenv
 
@@ -73,3 +73,9 @@ I was working in the Exercises_1 of Real Life Example of a Python/Pandas Data An
 **Today's Progress :** Today I remember about linear algebra and I worked with linear algebra in image processing
 
 **Thoughts :** I will apply the topic in image processing 
+
+## Day 11 : May 7 , 2020 |  Python OpenCV: Flipping an image
+
+**Today's Progress :** Today I learn how to flip an image, using Python and OpenCV.
+
+**Thoughts :** I enjoy to learn about OpenCV 
