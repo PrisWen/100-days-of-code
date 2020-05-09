@@ -42,7 +42,7 @@ I was working in the Exercises_1 of Real Life Example of a Python/Pandas Data An
 
 **Today's Progress :** I work with OOP Python and I advanced with class creation. This part of code is available here: [Pydata OOP Course](https://github.com/PrisWen/Pydata-POO-Course)
 
-**Thoughts :** Exercises with POO in Pydata Course was nice
+**Thoughts :** Exercises with OOP in Pydata Course was nice
  	
 ## Day 6 : May 2 , 2020 |  Introduction Python, rmotr.com Data Science with Python Course
 
@@ -76,6 +76,12 @@ I was working in the Exercises_1 of Real Life Example of a Python/Pandas Data An
 
 ## Day 11 : May 7 , 2020 |  Python OpenCV: Flipping an image
 
-**Today's Progress :** Today I learn how to flip an image, using Python and OpenCV.
+**Today's Progress :** Today I learned how to flip an image, using Python and OpenCV.
 
 **Thoughts :** I enjoy to learn about OpenCV 
+
+## Day 12 : May 8 , 2020 |  Python OpenCV: Working with images
+
+**Today's Progress :** Today I learned how to convert an image to black and white, resizing and tile and image using Python and OpenCV. 
+
+**Thoughts :** I almost finish the project in Python OpenCV
