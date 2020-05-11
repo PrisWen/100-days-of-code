@@ -91,3 +91,9 @@ I was working in the Exercises_1 of Real Life Example of a Python/Pandas Data An
 **Today's Progress :** Today I learned how to calling functions and defining my own, using Python's built in documentation and using booleans for branching logical
 
 **Thoughts :** The course is interesting with the support of Kaggle
+
+## Day 14 : May 10 , 2020 |  Kaggle's Python Course
+
+**Today's Progress :** Today I learned how to use lists, included indexing, slicing and mutating also I used loops and list comprehensions
+
+**Thoughts :** Exercises were pretty nice
