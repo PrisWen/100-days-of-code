@@ -85,3 +85,9 @@ I was working in the Exercises_1 of Real Life Example of a Python/Pandas Data An
 **Today's Progress :** Today I learned how to convert an image to black and white, resizing and tile and image using Python and OpenCV. 
 
 **Thoughts :** I almost finish the project in Python OpenCV
+
+## Day 13 : May 9 , 2020 |  Kaggle's Python Course
+
+**Today's Progress :** Today I learned how to calling functions and defining my own, using Python's built in documentation and using booleans for branching logical
+
+**Thoughts :** The course is interesting with the support of Kaggle
