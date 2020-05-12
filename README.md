@@ -97,3 +97,9 @@ I was working in the Exercises_1 of Real Life Example of a Python/Pandas Data An
 **Today's Progress :** Today I learned how to use lists, included indexing, slicing and mutating also I used loops and list comprehensions
 
 **Thoughts :** Exercises were pretty nice
+
+## Day 15 : May 11 , 2020 |  Kaggle's Python Course
+
+**Today's Progress :** Today I learned how to work with essential Python types: strings and dictionaries.
+
+**Thoughts :** Kaggle have very interesting exercises
