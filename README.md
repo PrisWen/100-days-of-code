@@ -103,3 +103,9 @@ I was working in the Exercises_1 of Real Life Example of a Python/Pandas Data An
 **Today's Progress :** Today I learned how to work with essential Python types: strings and dictionaries.
 
 **Thoughts :** Kaggle have very interesting exercises
+
+## Day 16 : May 12 , 2020 |  Final project OpenCV Pydata-POO-Course
+
+**Today's Progress :** Today I worked with OpenCV and OOP Python
+
+**Thoughts :** I finished the final project of OpenCV 
