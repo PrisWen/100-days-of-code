@@ -109,3 +109,21 @@ I was working in the Exercises_1 of Real Life Example of a Python/Pandas Data An
 **Today's Progress :** Today I worked with OpenCV and OOP Python
 
 **Thoughts :** I finished the final project of OpenCV 
+
+## Day 17 : May 13 , 2020 |  Final project OpenCV Pydata-POO-Course
+
+**Today's Progress :** Today I worked with TKinter, it is a bonus for my project
+
+**Thoughts :** TKinter is easy to understand and works with a graphical environment 
+
+## Day 18 : May 14 , 2020 |  Kaggle's Python Course | Working with text
+
+**Today's Progress :** Today I learned how to work with External Libraries also I work with text in ascii format
+
+**Thoughts :** I tried to understand the exercises because at first it was confusing
+
+## Day 19 : May 15 , 2020 |  Kaggle's Python Course
+
+**Today's Progress :** Today I solved exercises with External Libraries
+
+**Thoughts :** Time to celebrate. I finished the Kaggle Python course 
