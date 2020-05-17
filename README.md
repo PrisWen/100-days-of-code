@@ -127,3 +127,9 @@ I was working in the Exercises_1 of Real Life Example of a Python/Pandas Data An
 **Today's Progress :** Today I solved exercises with External Libraries
 
 **Thoughts :** Time to celebrate. I finished the Kaggle Python course
+
+## Day 20 : May 16 , 2020 |  Kaggle's Introduction to Machine Learning
+
+**Today's Progress :** Today I learned about how to explore the data and I worked with my first ML model
+
+**Thoughts :** Sklearn is easy to use
