@@ -133,3 +133,9 @@ I was working in the Exercises_1 of Real Life Example of a Python/Pandas Data An
 **Today's Progress :** Today I learned about how to explore the data and I worked with my first ML model
 
 **Thoughts :** Sklearn is easy to use
+
+## Day 21 : May 17 , 2020 |  Kaggle's Introduction to Machine Learning
+
+**Today's Progress :** Today I learned about how to split data, fit the model, make prediction and calculate MAE
+
+**Thoughts :** Sklearn surprises me
