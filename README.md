@@ -139,3 +139,9 @@ I was working in the Exercises_1 of Real Life Example of a Python/Pandas Data An
 **Today's Progress :** Today I learned about how to split data, fit the model, make prediction and calculate MAE
 
 **Thoughts :** Sklearn surprises me
+
+## Day 22 : May 18 , 2020 |  Kaggle's Introduction to Machine Learning
+
+**Today's Progress :** Today I learned about Overfitting and Underfitting
+
+**Thoughts :** Validation data helps measure a candidate model's accuracy
