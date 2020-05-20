@@ -145,3 +145,9 @@ I was working in the Exercises_1 of Real Life Example of a Python/Pandas Data An
 **Today's Progress :** Today I learned about Overfitting and Underfitting
 
 **Thoughts :** Validation data helps measure a candidate model's accuracy
+
+## Day 23 : May 19 , 2020 |  Kaggle's Introduction to Machine Learning
+
+**Today's Progress :** Today I learned how to use Random Forests
+
+**Thoughts :** The random forest uses many trees, and it makes a prediction by averaging the predictions of each component tree
