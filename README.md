@@ -157,3 +157,51 @@ I was working in the Exercises_1 of Real Life Example of a Python/Pandas Data An
 **Today's Progress :** Today I practiced with ML for my fist competition
 
 **Thoughts :** Today I finished the course Introduction to Machine Learning of Kaggle
+
+## Day 25 : May 21 , 2020 |  Supervised and unsupervised learning with scikit-learn
+
+**Today's Progress :** Today I learned about supervised and unsupervised learning with scikit-learn
+
+**Thoughts :** Datacamp is a wonderful platform
+
+## Day 26 : May 22 , 2020 |  Linear Classifiers in Python
+
+**Today's Progress :** Today I finished the Linear Classifiers in Python course and introduction to Pyspark
+
+**Thoughts :** Datacamp is a wonderful platform
+
+## Day 27 : May 23 , 2020 |  Pyspark 
+
+**Today's Progress :** Today a worked with Pyspark.ml
+
+**Thoughts :** Data is about online purchases in Amazon
+
+## Day 28 : May 24 , 2020 |  Cluster DHinsight
+
+**Today's Progress :** Today I learned about cluster in HDinsight
+
+**Thoughts :** Today I finished the course Introduction to Machine Learning of Kaggle
+
+## Day 29 : May 25 , 2020 |  Gensim
+
+**Today's Progress :** Today I learned how to clean data with Gensim library
+
+**Thoughts :** Gensim is so useful
+
+## Day 30 : May 26 , 2020 |  Tokenizers
+
+**Today's Progress :** Today I learned how to use Tokenizers in Spark
+
+**Thoughts :** Every day I learn something new
+
+## Day 31 : May 27 , 2020 |  Word2Vec
+
+**Today's Progress :** Today I learned how to use Word2Vec in Pyspark
+
+**Thoughts :** I learned that Word2Vec need a lot of memory
+
+## Day 32 : May 28 , 2020 |  Execute Pyspark with Google Colab
+
+**Today's Progress :** Today I learn how to execute Pyspark with Google Colab
+
+**Thoughts :** I was finally able to finish my big data project
