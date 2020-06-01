@@ -202,6 +202,18 @@ I was working in the Exercises_1 of Real Life Example of a Python/Pandas Data An
 
 ## Day 32 : May 28 , 2020 |  Execute Pyspark with Google Colab
 
-**Today's Progress :** Today I learn how to execute Pyspark with Google Colab
+**Today's Progress :** Today I learned how to execute Pyspark with Google Colab
 
 **Thoughts :** I was finally able to finish my big data project
+
+## Day 33 : May 29 , 2020 |  NLTK
+
+**Today's Progress :** Today I learned how to use nltk library 
+
+**Thoughts :** I applied it looking for a word cloud
+
+## Day 34 : May 30 , 2020 |  Web Scraping
+
+**Today's Progress :** Today I learned about web scraping with BeautifulSoup
+
+**Thoughts :** it is different for each web page, so you have to check the structure
